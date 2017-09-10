@@ -1,3 +1,4 @@
+#!/bin/sh
 # save your source list
 cp /etc/apt/sources.list /etc/apt/sources.list.backup
 # load content to list
